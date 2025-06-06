@@ -1,0 +1,11 @@
+body {
+    background-color: #f0f8ff;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.profile-img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border: 5px solid #007bff;
+}
